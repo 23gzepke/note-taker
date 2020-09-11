@@ -24,6 +24,10 @@ https://lit-chamber-82460.herokuapp.com/
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Demo
+
+![Note Taker](https://user-images.githubusercontent.com/25178948/92841702-ab2f0300-f3b0-11ea-9487-158524a26ba5.gif)
+
 ## Contributors
 
  Grant Zepke
