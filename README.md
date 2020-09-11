@@ -22,8 +22,7 @@ This application can be accessed and used through on Heroku, following the link 
 https://lit-chamber-82460.herokuapp.com/
 
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/
-gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
 
