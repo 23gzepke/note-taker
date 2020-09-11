@@ -1,7 +1,7 @@
 # note-taker
 
 ## Description
-An application that allows the user to stay more organinized by being able to write, save, and delete notes. This application uses an express backend, and saves and retrieves note data from a JSON file.
+An application that allows the user to stay more organized by being able to write, save, and delete notes. This application uses an express backend, and saves and retrieves note data from a JSON file.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ An application that allows the user to stay more organinized by being able to wr
 https://github.com/23gzepke/team-template-engine
 
 ## Installation
-This application can be accessed and used through on Heroku, following the link below.
+This application can be accessed and used through Heroku, following the link below.
 
 https://lit-chamber-82460.herokuapp.com/
 
