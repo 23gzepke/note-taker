@@ -8,6 +8,7 @@ An application that allows the user to stay more organized by being able to writ
   - [Repository](#Repository)
   - [Installation](#Installation)
   - [License](#License)
+  - [Demo](#Demo)
   - [Contributors](#Contributors)
   - [Future Development](#Development)
   - [Contact Author](#Contact)
